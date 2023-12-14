@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{CF94D316-F6CD-44A0-8B3E-818E311AF924}|Default">
+  <MonoDevelop.Ide.ItemProperties.GymManager.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>GymManager/Server/GymManager.Server.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GymManager.Api/Profiles/GymManagerMappingProfile.cs">
+    <Files>
+      <File FileName="GymManager.Api/Program.cs" Line="203" Column="1" />
+      <File FileName="GymManager.Api/Profiles/GymManagerMappingProfile.cs" Line="5" Column="21" />
+      <File FileName="GymManager.Repositories/UnitOfWork.cs" Line="24" Column="38" />
+      <File FileName="GymManager.Api/Controllers/TransactionsController.cs" Line="71" Column="13" />
+      <File FileName="GymManager.Services/CustomerDimensionService.cs" Line="39" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GymManager" expanded="True">
+            <Node name="GymManager.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Profiles" expanded="True" />
+            </Node>
+            <Node name="GymManager.Entities" expanded="True">
+              <Node name="Dtos" expanded="True">
+                <Node name="CustomerDimensions" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="GymManager.Repositories" expanded="True" />
+            <Node name="GymManager.Services" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager.Services/GymService.cs" relfile="GymManager.Services/GymService.cs" line="67" column="1" />
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager.Api/Controllers/WeatherForecastController.cs" relfile="GymManager.Api/Controllers/WeatherForecastController.cs" line="30" column="1" />
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager.Api/Controllers/GymsController.cs" relfile="GymManager.Api/Controllers/GymsController.cs" line="52" column="1" />
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager.Services/GymLocationService.cs" relfile="GymManager.Services/GymLocationService.cs" line="43" column="1" />
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager.Services/GymLocationService.cs" relfile="GymManager.Services/GymLocationService.cs" line="64" column="1" />
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager.Api/Controllers/GymLocationsController.cs" relfile="GymManager.Api/Controllers/GymLocationsController.cs" line="58" column="1" />
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager.Api/Controllers/GymLocationsController.cs" relfile="GymManager.Api/Controllers/GymLocationsController.cs" line="45" column="1" />
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager.Services/MembershipTypeService.cs" relfile="GymManager.Services/MembershipTypeService.cs" line="37" column="1" />
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager/Client/Services/DocumentTypeService.cs" relfile="GymManager/Client/Services/DocumentTypeService.cs" line="32" column="17" />
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager.Services/MembershipCustomerService.cs" relfile="GymManager.Services/MembershipCustomerService.cs" line="108" column="1" />
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager.Services/MembershipCustomerService.cs" relfile="GymManager.Services/MembershipCustomerService.cs" line="135" column="1" />
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager.Api/Controllers/CashBoxesController.cs" relfile="GymManager.Api/Controllers/CashBoxesController.cs" line="54" column="1" />
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager.Services/CashBoxService.cs" relfile="GymManager.Services/CashBoxService.cs" line="118" column="1" />
+      <Breakpoint file="/Users/sergio.badillo/Projects/GymManager/GymManager.Services/CustomerDimensionService.cs" relfile="GymManager.Services/CustomerDimensionService.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

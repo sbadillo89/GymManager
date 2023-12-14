@@ -1,0 +1,12 @@
+/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/bin/Debug/net6.0/GymManager.Entities.deps.json
+/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/bin/Debug/net6.0/GymManager.Entities.dll
+/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/bin/Debug/net6.0/GymManager.Entities.pdb
+/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/obj/Debug/net6.0/GymManager.Entities.csproj.AssemblyReference.cache
+/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/obj/Debug/net6.0/GymManager.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/obj/Debug/net6.0/GymManager.Entities.AssemblyInfoInputs.cache
+/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/obj/Debug/net6.0/GymManager.Entities.AssemblyInfo.cs
+/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/obj/Debug/net6.0/GymManager.Entities.csproj.CoreCompileInputs.cache
+/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/obj/Debug/net6.0/GymManager.Entities.dll
+/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/obj/Debug/net6.0/refint/GymManager.Entities.dll
+/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/obj/Debug/net6.0/GymManager.Entities.pdb
+/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/obj/Debug/net6.0/ref/GymManager.Entities.dll

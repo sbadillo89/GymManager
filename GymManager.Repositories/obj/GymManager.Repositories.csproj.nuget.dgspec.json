@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/GymManager.Repositories.csproj": {}
+  },
+  "projects": {
+    "/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/GymManager.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/GymManager.Entities.csproj",
+        "projectName": "GymManager.Entities",
+        "projectPath": "/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/GymManager.Entities.csproj",
+        "packagesPath": "/Users/sergio.badillo/.nuget/packages/",
+        "outputPath": "/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sergio.badillo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://smiledirectclub.myget.org/F/engineering/auth/42990317-6105-43f6-b3f9-c61016a034c7/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/GymManager.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/GymManager.Repositories.csproj",
+        "projectName": "GymManager.Repositories",
+        "projectPath": "/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/GymManager.Repositories.csproj",
+        "packagesPath": "/Users/sergio.badillo/.nuget/packages/",
+        "outputPath": "/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sergio.badillo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://smiledirectclub.myget.org/F/engineering/auth/42990317-6105-43f6-b3f9-c61016a034c7/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/GymManager.Entities.csproj": {
+                "projectPath": "/Users/sergio.badillo/Projects/GymManager/GymManager.Entities/GymManager.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

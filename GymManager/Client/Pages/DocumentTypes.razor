@@ -1,0 +1,43 @@
+﻿@page "/documentTypes"
+
+@inject IDocumentTypeService documentTypeService
+
+<PageTitle>Tipo de documentos</PageTitle>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (documentTypes == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var types in documentTypes)
+            {
+                <tr>
+                    <td>@types.Id)</td>
+                    <td>@types.Description.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private IEnumerable<DocumentTypeDto>? documentTypes;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var response = await documentTypeService.GetAllAsync();
+
+        documentTypes = response.Data!;
+    }
+}

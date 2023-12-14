@@ -1,0 +1,17 @@
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/bin/Debug/net6.0/GymManager.Services.deps.json
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/bin/Debug/net6.0/GymManager.Services.dll
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/bin/Debug/net6.0/GymManager.Services.pdb
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/bin/Debug/net6.0/GymManager.Entities.dll
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/bin/Debug/net6.0/GymManager.Repositories.dll
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/bin/Debug/net6.0/GymManager.Entities.pdb
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/bin/Debug/net6.0/GymManager.Repositories.pdb
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/obj/Debug/net6.0/GymManager.Services.csproj.AssemblyReference.cache
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/obj/Debug/net6.0/GymManager.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/obj/Debug/net6.0/GymManager.Services.AssemblyInfoInputs.cache
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/obj/Debug/net6.0/GymManager.Services.AssemblyInfo.cs
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/obj/Debug/net6.0/GymManager.Services.csproj.CoreCompileInputs.cache
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/obj/Debug/net6.0/GymManager.Services.csproj.CopyComplete
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/obj/Debug/net6.0/GymManager.Services.dll
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/obj/Debug/net6.0/refint/GymManager.Services.dll
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/obj/Debug/net6.0/GymManager.Services.pdb
+/Users/sergio.badillo/Projects/GymManager/GymManager.Services/obj/Debug/net6.0/ref/GymManager.Services.dll

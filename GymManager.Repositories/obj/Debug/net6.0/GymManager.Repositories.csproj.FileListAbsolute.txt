@@ -1,0 +1,17 @@
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/bin/Debug/net6.0/GymManager.Repositories.deps.json
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/bin/Debug/net6.0/GymManager.Repositories.runtimeconfig.json
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/bin/Debug/net6.0/GymManager.Repositories.dll
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/bin/Debug/net6.0/GymManager.Repositories.pdb
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/bin/Debug/net6.0/GymManager.Entities.dll
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/bin/Debug/net6.0/GymManager.Entities.pdb
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/obj/Debug/net6.0/GymManager.Repositories.csproj.AssemblyReference.cache
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/obj/Debug/net6.0/GymManager.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/obj/Debug/net6.0/GymManager.Repositories.AssemblyInfoInputs.cache
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/obj/Debug/net6.0/GymManager.Repositories.AssemblyInfo.cs
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/obj/Debug/net6.0/GymManager.Repositories.csproj.CoreCompileInputs.cache
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/obj/Debug/net6.0/GymManager.Repositories.csproj.CopyComplete
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/obj/Debug/net6.0/GymManager.Repositories.dll
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/obj/Debug/net6.0/refint/GymManager.Repositories.dll
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/obj/Debug/net6.0/GymManager.Repositories.pdb
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/obj/Debug/net6.0/GymManager.Repositories.genruntimeconfig.cache
+/Users/sergio.badillo/Projects/GymManager/GymManager.Repositories/obj/Debug/net6.0/ref/GymManager.Repositories.dll
